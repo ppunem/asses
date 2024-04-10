@@ -22,7 +22,7 @@ export function withRouter(Children){
     }
 
     getMovieDetails=async()=>{
-        //console.log(this.props)
+        ////console.log(this.props)
         const {match}=this.props
         //console.log(match)
         //console.log(params)
