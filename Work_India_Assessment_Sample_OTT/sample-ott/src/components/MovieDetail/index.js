@@ -41,7 +41,7 @@ export function withRouter(Children){
             const data=await response.json()
             //console.log(data.genres)
             // let arr=[]
-            // data.genres.map(each=>arr.push(each.name))
+            
             const formattedData={
                 id:data.id,
                 backdropUrl:data.backdrop_path,
