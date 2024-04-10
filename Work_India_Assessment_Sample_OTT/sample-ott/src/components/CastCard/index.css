@@ -1,0 +1,19 @@
+.cast-card{
+    list-style-type: none;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.cast{
+    height: 180px;
+    width: 150px;
+}
+.cast-name{
+    font-size: 15px;
+    color: #ffffff;
+    font-family: "roboto";
+}
+.cast-character{
+    font-size: 12px;
+    color: #ffffff;
+    font-family: "roboto";
+}

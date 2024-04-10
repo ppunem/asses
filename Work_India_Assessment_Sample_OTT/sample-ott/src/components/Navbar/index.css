@@ -1,0 +1,34 @@
+.navbar{
+    background-color: darkslategray;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-options{
+    display: flex;
+}
+.head{
+    color: antiquewhite;
+    font-family: "roboto";
+}
+.option{
+    border: none;
+    background-color: transparent;
+    color: blue;
+    font-family: "roboto";
+    padding: 12px;
+    margin-right: 5px;
+}
+.search{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    margin-right: 5px;
+}
+.btn{
+    background-color: darkcyan;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}

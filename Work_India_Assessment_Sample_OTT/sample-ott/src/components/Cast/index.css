@@ -1,0 +1,23 @@
+.con{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.cast-head{
+    font-family: "roboto";
+    color: #ffffff;
+    margin-left: 47px;
+}
+.cast-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+@media screen and (max-width:767px){
+    .cast-container{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}

@@ -1,0 +1,30 @@
+.btn{
+    color: black;
+    background-color: ash;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-width: 0px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+.active{
+    color: white;
+    background-color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-width: 0px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 45px;
+    padding-left: 45px;
+}
